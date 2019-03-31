@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * ChocolateService
+ * ChocolateService class
  */
 public class ChocolateService {
 
