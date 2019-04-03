@@ -1,0 +1,6 @@
+src/main/java/com/sample/ChocolateService.java
+src/main/java/com/sample/ChocolateServlet.java
+src/main/java/com/sample/model/ChocolateType.java
+
+aj/Trace.java
+aj/TraceAspect.aj
