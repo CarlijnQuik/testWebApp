@@ -6,24 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7834c065-1e99-43db-93c3-162579a3c460" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log4j2-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/SelectChocolateServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/SelectChocolateServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/result.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SampleServlet.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/SampleServlet.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SampleServlet/WEB-INF/classes/com/sample/ChocolateService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SampleServlet/WEB-INF/classes/com/sample/ChocolateService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SampleServlet/WEB-INF/classes/com/sample/SelectChocolateServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SampleServlet/WEB-INF/classes/com/sample/SelectChocolateServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SampleServlet/WEB-INF/classes/com/sample/model/ChocolateType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SampleServlet/WEB-INF/classes/com/sample/model/ChocolateType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SampleServlet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/SampleServlet/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SampleServlet/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/SampleServlet/result.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/ChocolateService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/ChocolateService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/SelectChocolateServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/SelectChocolateServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/model/ChocolateType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/model/ChocolateType.class" afterDir="false" />
-    </list>
+    <list default="true" id="7834c065-1e99-43db-93c3-162579a3c460" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/SelectChocolateServlet.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -239,7 +213,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554288993428" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554289065865" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -358,12 +332,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554287710918</updated>
       <workItem from="1554287717868" duration="245000" />
-      <workItem from="1554288402920" duration="588000" />
+      <workItem from="1554288402920" duration="795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="833000" />
+    <option name="totallyTimeSpent" value="1040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -380,7 +354,7 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -464,6 +438,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/files.lst">
