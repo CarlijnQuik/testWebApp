@@ -1,0 +1,11 @@
+-Xajruntimetarget:1.5
+-1.4
+-classpath
+C:\Users\CQUIK95\.m2\repository\javax\servlet\javax.servlet-api\3.0.1\javax.servlet-api-3.0.1.jar;C:\Users\CQUIK95\.m2\repository\org\apache\logging\log4j\log4j-api\2.9.1\log4j-api-2.9.1.jar;C:\Users\CQUIK95\.m2\repository\org\apache\logging\log4j\log4j-core\2.9.1\log4j-core-2.9.1.jar;C:\Users\CQUIK95\.m2\repository\org\aspectj\aspectjrt\1.8.13\aspectjrt-1.8.13.jar;C:\Users\CQUIK95\.m2\repository\org\aspectj\aspectjweaver\1.8.13\aspectjweaver-1.8.13.jar;C:\Users\CQUIK95\Documents\testWebApp\target\classes
+-d
+C:\Users\CQUIK95\Documents\testWebApp\target\classes
+C:\Users\CQUIK95\Documents\testWebApp\src\main\java\aj\Trace.java
+C:\Users\CQUIK95\Documents\testWebApp\src\main\java\aj\TraceAspect.aj
+C:\Users\CQUIK95\Documents\testWebApp\src\main\java\com\sample\ChocolateService.java
+C:\Users\CQUIK95\Documents\testWebApp\src\main\java\com\sample\model\ChocolateType.java
+C:\Users\CQUIK95\Documents\testWebApp\src\main\java\com\sample\SelectChocolateServlet.java

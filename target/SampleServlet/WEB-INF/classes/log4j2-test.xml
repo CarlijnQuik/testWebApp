@@ -6,7 +6,7 @@
     </Console>
     <!-- We recommend using a system property to override this config file with one placed outside of git's tracking.
          This way changing the export file doesn't affect the repository status -->
-    <File name="AJPOLog" fileName="ajpologs.log" immediateFlush="true">
+    <File name="AJPOLog" fileName="C:/Users/CQUIK95/Documents/testWebApp/logs/ajpologs.log" immediateFlush="true">
     	<PatternLayout pattern="%d{ISO8601};[%t];%msg%n"/>
     </File>
   </Appenders>

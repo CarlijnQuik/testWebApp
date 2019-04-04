@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [04/Apr/2019:09:56:43 +0200] "GET /testWebApp HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [04/Apr/2019:09:56:43 +0200] "GET /testWebApp/ HTTP/1.1" 304 - http-bio-8080-exec-3 24
+0:0:0:0:0:0:0:1 - - [04/Apr/2019:09:56:50 +0200] "POST /testWebApp/SelectChocolate HTTP/1.1" 200 215 http-bio-8080-exec-4 952
+0:0:0:0:0:0:0:1 - - [04/Apr/2019:10:21:22 +0200] "GET /testWebApp/ HTTP/1.1" 304 - http-bio-8080-exec-1 69
+0:0:0:0:0:0:0:1 - - [04/Apr/2019:10:21:25 +0200] "GET / HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [04/Apr/2019:10:21:29 +0200] "GET /testWebApp HTTP/1.1" 302 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [04/Apr/2019:10:21:35 +0200] "POST /testWebApp/SelectChocolate HTTP/1.1" 200 215 http-bio-8080-exec-5 787
+0:0:0:0:0:0:0:1 - - [04/Apr/2019:10:35:27 +0200] "GET /testWebApp HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [04/Apr/2019:10:35:32 +0200] "POST /testWebApp/SelectChocolate HTTP/1.1" 500 2237 http-bio-8080-exec-3 99
+0:0:0:0:0:0:0:1 - - [04/Apr/2019:10:37:52 +0200] "GET /testWebApp HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [04/Apr/2019:10:37:57 +0200] "POST /testWebApp/SelectChocolate HTTP/1.1" 500 2237 http-bio-8080-exec-3 105
+0:0:0:0:0:0:0:1 - - [04/Apr/2019:10:44:49 +0200] "GET /testWebApp HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [04/Apr/2019:10:44:55 +0200] "POST /testWebApp/SelectChocolate HTTP/1.1" 500 2237 http-bio-8080-exec-3 113
+0:0:0:0:0:0:0:1 - - [04/Apr/2019:11:15:39 +0200] "GET /testWebApp HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [04/Apr/2019:11:15:44 +0200] "POST /testWebApp/SelectChocolate HTTP/1.1" 200 209 http-bio-8080-exec-3 698
