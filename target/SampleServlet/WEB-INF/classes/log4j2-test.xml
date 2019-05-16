@@ -13,7 +13,7 @@
   <Loggers>
     <Root level="all">
       <AppenderRef ref="AJPOLog" level="trace"/>
-      <AppenderRef ref="Console" level="error"></AppenderRef>
+      <AppenderRef ref="Console" level="error"/>
     </Root>
   </Loggers>
 </Configuration>
