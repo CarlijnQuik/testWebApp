@@ -1,5 +1,5 @@
-C:\Users\CQUIK95\Documents\testWebApp\src\main\java\com\aj\Trace.java
-C:\Users\CQUIK95\Documents\testWebApp\src\main\java\com\aj\TraceAspect.aj
-C:\Users\CQUIK95\Documents\testWebApp\src\main\java\com\sample\ChocolateService.java
-C:\Users\CQUIK95\Documents\testWebApp\src\main\java\com\sample\model\ChocolateType.java
-C:\Users\CQUIK95\Documents\testWebApp\src\main\java\com\sample\SelectChocolateServlet.java
+src\main\java\aj\Trace.java
+src\main\java\aj\TraceAspect.aj
+src\main\java\com\sample\ChocolateService.java
+src\main\java\com\sample\model\ChocolateType.java
+src\main\java\com\sample\SelectChocolateServlet.java
